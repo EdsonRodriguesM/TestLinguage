@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MultilingualSample.App" xmlns:__xl="clr-namespace:__livexaml" __xl:Runtime.Register="C:\Users\edson\Desktop\projeto\MultilingualSample\MultilingualSample\App.xaml">
+  <Application.Resources>
+    <!-- Application resource dictionary -->
+  </Application.Resources>
+</Application>

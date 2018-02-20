@@ -14,7 +14,7 @@ namespace MultilingualSample.Views
             picker.Items.Add("English");
             picker.Items.Add("Spanish");
             picker.Items.Add("Portuguese");
-            picker.Items.Add("French");
+            //picker.Items.Add("French");
             picker.SelectedItem = CrossMultilingual.Current.CurrentCultureInfo.EnglishName;
         }
 

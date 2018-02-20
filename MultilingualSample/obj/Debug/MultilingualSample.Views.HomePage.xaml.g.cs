@@ -11,7 +11,8 @@
 namespace MultilingualSample.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\edson\\Desktop\\MultilingualSample\\MultilingualSample\\Views\\HomePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\edson\\Desktop\\projeto\\MultilingualSample\\MultilingualSample\\Views\\HomePa" +
+        "ge.xaml")]
     public partial class HomePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

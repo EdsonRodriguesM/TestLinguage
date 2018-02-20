@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\edson\Desktop\projeto\MultilingualSample\MultilingualSample\App.xaml</FilePath>
+      <Hash>71-4A-90-C1-70-83-92-41-3E-24-B1-52-22-5E-37-E3</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\edson\Desktop\projeto\MultilingualSample\MultilingualSample\Views\HomePage.xaml</FilePath>
+      <Hash>D2-6C-51-92-F6-C4-8A-2B-5E-67-F6-00-8C-1C-81-8B</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\edson\Desktop\projeto\MultilingualSample\MultilingualSample\Views\ChangeLanguagePage.xaml</FilePath>
+      <Hash>69-CE-96-AC-13-6B-37-54-A6-50-4F-70-4D-E4-09-5B</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

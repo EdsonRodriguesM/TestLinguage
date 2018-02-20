@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>obj\Debug\lp\0\jl\formsviewgroup.jar</Jar>
-    <Jar>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\0\jl\formsviewgroup.jar</Jar>
+    <Jar>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\0\jl\formsviewgroup.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\3\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\15\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\3\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\15\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\lp\3\jl\assets</ResolvedAssetDirectory>
@@ -16,8 +15,8 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\3.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\edson\Desktop\MultilingualSample\Droid\obj\Debug\lp\15.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\edson\Desktop\projeto\MultilingualSample\Droid\obj\Debug\lp\15.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
